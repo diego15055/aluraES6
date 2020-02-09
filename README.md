@@ -1,1 +1,1 @@
-"# aluraES6" 
+Iniciando repositório do curso alura de ecmaScript.
